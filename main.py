@@ -14,4 +14,4 @@ if dif == "1":
     st = input("\nTry entering this link so you can hopefully resolve your error.\n https://docs.google.com/forms/d/e/1FAIpQLScixeMDROeSKIkyuW9uYaSy57p0qcZRtptrgRy8QVqZvhvJHw/viewform")
 
 if dif == "2":
-    st = input("First take time to go into here to buy a book:\nhttps://docs.google.com/presentation/d/1DdaJxPx5iqwCByY5Djjz2fg66Ls-i5Impg_bgdlwKcc/comment#slide=id.gc6f59039d_0_0\n\n")
+    st = input("First take time to go into here to buy a book:\nhttps://docs.google.com/presentation/d/1DdaJxPx5iqwCByY5Djjz2fg66Ls-i5Impg_bgdlwKcc/comment#slide=id.gc6f59039d_0_0\n\n")laruqwiovfsk,lkulh
