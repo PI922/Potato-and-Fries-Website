@@ -14,7 +14,7 @@ if dif == "1":
     st = input("")
 
 if dif == "2":
-    st = input("First take time to go into here to buy a book:\nhttps://docs.google.com/presentation/d/1DdaJxPx5iqwCByY5Djjz2fg66Ls-i5Impg_bgdlwKcc/comment#slide=id.gc6f59039d_0_0\n\nAnd then take time to fill out this form:\nhttps://docs.google.com/forms/d/e/1FAIpQLSfvMeBGGaZE_vsgYZz-ZQHne7i6sWSBY_n785tVuXATAG766w/viewform\nReload the site to report other errors.")
+    st = input("First take time to go into here to buy a book:\nhttps://docs.google.com/presentation/d/1DdaJxPx5iqwCByY5Djjz2fg66Ls-i5Impg_bgdlwKcc/comment#slide=id.gc6f59039d_0_0\n\nAnd then take time to fill out this form:\nhttps://docs.google.com/forms/d/e/1FAIpQLSfvMeBGGaZE_vsgYZz-ZQHne7i6sWSBY_n785tVuXATAG766w/viewform\nReload the site to report errors.")
 
 if dif == "3":
-    st = input("")
+    st = input("Take time to fill out this form to report an error:\nhttps://docs.google.com/forms/d/e/1FAIpQLScixeMDROeSKIkyuW9uYaSy57p0qcZRtptrgRy8QVqZvhvJHw/viewform\nReload the site to report any other errors.")
