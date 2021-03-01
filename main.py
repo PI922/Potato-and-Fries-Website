@@ -8,7 +8,7 @@ def clear():
        _ = system('clear')
 
 door = random.randint (1,3)
-dif = input("Welcome to the Potato and Fries Help Center. What would you like to do?\nP.S. Enter 1-3 to do what is on the list. \n1. File a complaint\n2. File an work request\n3. Report a bug \n\n")
+dif = input("Welcome to the Potato and Fries Help Center.\nWhat would you like to do?\nP.S. Enter 1-3 to do what is on the list. \nType Language to translate to Chinese(Simplified).\n1. File a complaint\n2. File an work request\n3. Report a bug \n\n")
 
 if dif == "1":
     st = input("File a complaint here:\nhttps://docs.google.com/forms/d/e/1FAIpQLSd-XwIF6C-Uwvad_Wkpf6184ZGjEv0dD0zgv31ZsZy9Nicb-g/viewform\nReload the site to report errors. ")
@@ -18,3 +18,6 @@ if dif == "2":
 
 if dif == "3":
     st = input("Take time to fill out this form to report an error:\nhttps://docs.google.com/forms/d/e/1FAIpQLScixeMDROeSKIkyuW9uYaSy57p0qcZRtptrgRy8QVqZvhvJHw/viewform\nReload the site to report any other errors.")
+
+if dif == "Language":
+    st = input("Sorry, but language is not supported yet. \nPlease come back for the feature.")
